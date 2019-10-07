@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\逄子毅\Desktop\108360215逄子毅3\2.23\source\main.c(17,19): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+C:\Users\逄子毅\Desktop\108360215逄子毅3\2.23\source\main.c(21,24): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+C:\Users\逄子毅\Desktop\108360215逄子毅3\2.23\source\main.c(29,20): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+C:\Users\逄子毅\Desktop\108360215逄子毅3\2.23\source\main.c(33,25): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+  HW.vcxproj -> C:\Users\逄子毅\Desktop\108360215逄子毅3\2.23\HW\Debug\HW.exe
